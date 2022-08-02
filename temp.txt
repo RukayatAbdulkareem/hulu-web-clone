@@ -1,0 +1,31 @@
+
+       <div class="browse d-flex gap-4 pt-5 p-5">
+        <div class="card-head"></div>
+        <div class="live">
+          <p>Streaming live</p>
+          <p>Streaming Live</p>
+          <p>Streaming Live</p>
+          <p>Streaming Live</p>
+        </div>
+        <div class="tv">
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+        </div>
+        <div class="tv">
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+        </div>
+        <div class="tv">
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+          <p>TV Show</p>
+        </div>
+      </div>
